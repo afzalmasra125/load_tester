@@ -1,0 +1,6 @@
+/Users/qxz07la/Downloads/NBomber-dev/src/NBomber/bin/Debug/netstandard2.0/NBomber.deps.json
+/Users/qxz07la/Downloads/NBomber-dev/src/NBomber/bin/Debug/netstandard2.0/NBomber.dll
+/Users/qxz07la/Downloads/NBomber-dev/src/NBomber/bin/Debug/netstandard2.0/NBomber.pdb
+/Users/qxz07la/Downloads/NBomber-dev/src/NBomber/obj/Debug/netstandard2.0/NBomber.fsprojAssemblyReference.cache
+/Users/qxz07la/Downloads/NBomber-dev/src/NBomber/obj/Debug/netstandard2.0/NBomber.dll
+/Users/qxz07la/Downloads/NBomber-dev/src/NBomber/obj/Debug/netstandard2.0/NBomber.pdb

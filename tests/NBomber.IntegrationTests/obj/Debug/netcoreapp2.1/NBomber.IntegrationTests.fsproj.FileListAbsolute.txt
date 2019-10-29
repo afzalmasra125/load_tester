@@ -1,0 +1,15 @@
+/Users/qxz07la/Downloads/NBomber-dev/tests/NBomber.IntegrationTests/bin/Debug/netcoreapp2.1/Configuration/config.json
+/Users/qxz07la/Downloads/NBomber-dev/tests/NBomber.IntegrationTests/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/qxz07la/Downloads/NBomber-dev/tests/NBomber.IntegrationTests/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/Users/qxz07la/Downloads/NBomber-dev/tests/NBomber.IntegrationTests/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/Users/qxz07la/Downloads/NBomber-dev/tests/NBomber.IntegrationTests/bin/Debug/netcoreapp2.1/NBomber.IntegrationTests.deps.json
+/Users/qxz07la/Downloads/NBomber-dev/tests/NBomber.IntegrationTests/bin/Debug/netcoreapp2.1/NBomber.IntegrationTests.runtimeconfig.json
+/Users/qxz07la/Downloads/NBomber-dev/tests/NBomber.IntegrationTests/bin/Debug/netcoreapp2.1/NBomber.IntegrationTests.runtimeconfig.dev.json
+/Users/qxz07la/Downloads/NBomber-dev/tests/NBomber.IntegrationTests/bin/Debug/netcoreapp2.1/NBomber.IntegrationTests.dll
+/Users/qxz07la/Downloads/NBomber-dev/tests/NBomber.IntegrationTests/bin/Debug/netcoreapp2.1/NBomber.IntegrationTests.pdb
+/Users/qxz07la/Downloads/NBomber-dev/tests/NBomber.IntegrationTests/bin/Debug/netcoreapp2.1/NBomber.dll
+/Users/qxz07la/Downloads/NBomber-dev/tests/NBomber.IntegrationTests/bin/Debug/netcoreapp2.1/NBomber.pdb
+/Users/qxz07la/Downloads/NBomber-dev/tests/NBomber.IntegrationTests/obj/Debug/netcoreapp2.1/NBomber.IntegrationTests.fsprojAssemblyReference.cache
+/Users/qxz07la/Downloads/NBomber-dev/tests/NBomber.IntegrationTests/obj/Debug/netcoreapp2.1/NBomber.IntegrationTests.fsproj.CopyComplete
+/Users/qxz07la/Downloads/NBomber-dev/tests/NBomber.IntegrationTests/obj/Debug/netcoreapp2.1/NBomber.IntegrationTests.dll
+/Users/qxz07la/Downloads/NBomber-dev/tests/NBomber.IntegrationTests/obj/Debug/netcoreapp2.1/NBomber.IntegrationTests.pdb

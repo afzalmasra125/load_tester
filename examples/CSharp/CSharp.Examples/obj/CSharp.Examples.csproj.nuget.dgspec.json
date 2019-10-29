@@ -1,0 +1,84 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/qxz07la/Documents/Repos/http-load-tester/examples/CSharp/CSharp.Examples/CSharp.Examples.csproj": {}
+  },
+  "projects": {
+    "/Users/qxz07la/Documents/Repos/http-load-tester/examples/CSharp/CSharp.Examples/CSharp.Examples.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/qxz07la/Documents/Repos/http-load-tester/examples/CSharp/CSharp.Examples/CSharp.Examples.csproj",
+        "projectName": "CSharp.Examples",
+        "projectPath": "/Users/qxz07la/Documents/Repos/http-load-tester/examples/CSharp/CSharp.Examples/CSharp.Examples.csproj",
+        "packagesPath": "/Users/qxz07la/.nuget/packages/",
+        "outputPath": "/Users/qxz07la/Documents/Repos/http-load-tester/examples/CSharp/CSharp.Examples/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/qxz07la/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.WebSockets": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.8.1, )"
+            },
+            "NBomber": {
+              "target": "Package",
+              "version": "[0.15.0-beta, )"
+            },
+            "NBomber.Http": {
+              "target": "Package",
+              "version": "[0.15.0-beta, )"
+            },
+            "NBomber.Sinks.InfluxDB": {
+              "target": "Package",
+              "version": "[0.14.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

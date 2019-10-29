@@ -1,0 +1,12 @@
+/Users/qxz07la/Downloads/NBomber-dev/examples/CSharp/CSharp.Examples.Cluster/bin/Debug/netcoreapp2.2/agent_config.json
+/Users/qxz07la/Downloads/NBomber-dev/examples/CSharp/CSharp.Examples.Cluster/bin/Debug/netcoreapp2.2/coordinator_config.json
+/Users/qxz07la/Downloads/NBomber-dev/examples/CSharp/CSharp.Examples.Cluster/bin/Debug/netcoreapp2.2/CSharp.Examples.Cluster.deps.json
+/Users/qxz07la/Downloads/NBomber-dev/examples/CSharp/CSharp.Examples.Cluster/bin/Debug/netcoreapp2.2/CSharp.Examples.Cluster.runtimeconfig.json
+/Users/qxz07la/Downloads/NBomber-dev/examples/CSharp/CSharp.Examples.Cluster/bin/Debug/netcoreapp2.2/CSharp.Examples.Cluster.runtimeconfig.dev.json
+/Users/qxz07la/Downloads/NBomber-dev/examples/CSharp/CSharp.Examples.Cluster/bin/Debug/netcoreapp2.2/CSharp.Examples.Cluster.dll
+/Users/qxz07la/Downloads/NBomber-dev/examples/CSharp/CSharp.Examples.Cluster/bin/Debug/netcoreapp2.2/CSharp.Examples.Cluster.pdb
+/Users/qxz07la/Downloads/NBomber-dev/examples/CSharp/CSharp.Examples.Cluster/obj/Debug/netcoreapp2.2/CSharp.Examples.Cluster.csprojAssemblyReference.cache
+/Users/qxz07la/Downloads/NBomber-dev/examples/CSharp/CSharp.Examples.Cluster/obj/Debug/netcoreapp2.2/CSharp.Examples.Cluster.AssemblyInfoInputs.cache
+/Users/qxz07la/Downloads/NBomber-dev/examples/CSharp/CSharp.Examples.Cluster/obj/Debug/netcoreapp2.2/CSharp.Examples.Cluster.AssemblyInfo.cs
+/Users/qxz07la/Downloads/NBomber-dev/examples/CSharp/CSharp.Examples.Cluster/obj/Debug/netcoreapp2.2/CSharp.Examples.Cluster.dll
+/Users/qxz07la/Downloads/NBomber-dev/examples/CSharp/CSharp.Examples.Cluster/obj/Debug/netcoreapp2.2/CSharp.Examples.Cluster.pdb

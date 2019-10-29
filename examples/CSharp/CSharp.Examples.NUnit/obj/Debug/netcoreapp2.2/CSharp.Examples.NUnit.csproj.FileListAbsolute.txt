@@ -1,0 +1,16 @@
+/Users/qxz07la/Downloads/NBomber-dev/examples/CSharp/CSharp.Examples.NUnit/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.dll
+/Users/qxz07la/Downloads/NBomber-dev/examples/CSharp/CSharp.Examples.NUnit/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.pdb
+/Users/qxz07la/Downloads/NBomber-dev/examples/CSharp/CSharp.Examples.NUnit/bin/Debug/netcoreapp2.2/nunit.engine.netstandard.dll
+/Users/qxz07la/Downloads/NBomber-dev/examples/CSharp/CSharp.Examples.NUnit/bin/Debug/netcoreapp2.2/CSharp.Examples.NUnit.deps.json
+/Users/qxz07la/Downloads/NBomber-dev/examples/CSharp/CSharp.Examples.NUnit/bin/Debug/netcoreapp2.2/CSharp.Examples.NUnit.runtimeconfig.json
+/Users/qxz07la/Downloads/NBomber-dev/examples/CSharp/CSharp.Examples.NUnit/bin/Debug/netcoreapp2.2/CSharp.Examples.NUnit.runtimeconfig.dev.json
+/Users/qxz07la/Downloads/NBomber-dev/examples/CSharp/CSharp.Examples.NUnit/bin/Debug/netcoreapp2.2/CSharp.Examples.NUnit.dll
+/Users/qxz07la/Downloads/NBomber-dev/examples/CSharp/CSharp.Examples.NUnit/bin/Debug/netcoreapp2.2/CSharp.Examples.NUnit.pdb
+/Users/qxz07la/Downloads/NBomber-dev/examples/CSharp/CSharp.Examples.NUnit/bin/Debug/netcoreapp2.2/NBomber.dll
+/Users/qxz07la/Downloads/NBomber-dev/examples/CSharp/CSharp.Examples.NUnit/bin/Debug/netcoreapp2.2/NBomber.pdb
+/Users/qxz07la/Downloads/NBomber-dev/examples/CSharp/CSharp.Examples.NUnit/obj/Debug/netcoreapp2.2/CSharp.Examples.NUnit.csprojAssemblyReference.cache
+/Users/qxz07la/Downloads/NBomber-dev/examples/CSharp/CSharp.Examples.NUnit/obj/Debug/netcoreapp2.2/CSharp.Examples.NUnit.AssemblyInfoInputs.cache
+/Users/qxz07la/Downloads/NBomber-dev/examples/CSharp/CSharp.Examples.NUnit/obj/Debug/netcoreapp2.2/CSharp.Examples.NUnit.AssemblyInfo.cs
+/Users/qxz07la/Downloads/NBomber-dev/examples/CSharp/CSharp.Examples.NUnit/obj/Debug/netcoreapp2.2/CSharp.Examples.NUnit.csproj.CopyComplete
+/Users/qxz07la/Downloads/NBomber-dev/examples/CSharp/CSharp.Examples.NUnit/obj/Debug/netcoreapp2.2/CSharp.Examples.NUnit.dll
+/Users/qxz07la/Downloads/NBomber-dev/examples/CSharp/CSharp.Examples.NUnit/obj/Debug/netcoreapp2.2/CSharp.Examples.NUnit.pdb
